@@ -12,36 +12,83 @@ Please note that this is an evolving part of this document. Threfore things *can
 
 ### Materials
 
-M_
+MAT_
 
 Example:
-M_ToonCharacter
+MT_ToonCharacter
 
 ###  Textures
 
-T_
+TEX_
 
 Example:
-T_Rock_BaseColor
-T_Rock_Normal
+TX_Rock_BaseColor
+TX_Rock_Normal
 
-### Shader Graphs
+### Shader
 
-SG_
+SHD_
 
 Example:
-SG_Toon
+SHD_Toon
+
 
 ### Prefabs
 
-P_
+PFB_
 
 Example:
-P_Player
+PFB_Player
 
 ### Scenes
 
-SC_
+SCN_
 
 Example:
-SC_ToonExperiment
+SCE_Toon
+
+### C# Scripts
+
+SCR_
+
+Exammple:
+SCR_PlayerController
+
+### Fonts
+
+FON_
+
+Example:
+FON_Calibri
+
+### Audio
+
+#### Music
+
+MSC_
+
+Example:
+MSC_MainMenu
+
+#### Sound Effect
+
+SFX_
+
+Example:
+SFX_Explosion
+
+!
+
+### Sprite
+
+SPR_
+
+Example:
+SPR_PlayerIdle
+
+### ScriptableObject
+
+SO_
+
+Example:
+SO_WeaponData
